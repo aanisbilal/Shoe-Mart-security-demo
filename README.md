@@ -41,7 +41,7 @@ Users should always verify the trustworthiness of a website before granting acce
 ## Live Demo
 
 Live Website:
-[[Add your GitHub Pages link here]](https://aanisbilal.github.io/Shoe-Mart-security-demo/)
+https://aanisbilal.github.io/Shoe-Mart-security-demo/
 
 ---
 
